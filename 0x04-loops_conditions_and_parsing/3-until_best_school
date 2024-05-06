@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times with until
+k=1
+
+until [ $k -gt "10" ]; do
+    echo "Best School"
+    (("k += 1"))
+done
